@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAPPDio</string>
+    <string name="description" translatable="false">The PEGUEOUT - LARI is the ultimate sports bicycle for cyclists seeking performance and style in every ride. Designed to provide an unparalleled experience on trails and roads, the LARI combines advanced technology with a bold design.\n \nWith the PEGUEOUT - LARI, you are ready to conquer any challenge, whether on urban roads or the wildest trails. Experience the freedom and thrill of sports cycling with a bike that not only keeps up with your pace but takes you beyond.</string>
+    <string name="title_description" translatable="false">Description</string>
+    <string name="value" translatable="false">132.57$</string>
+    <string name="adiquirir" translatable="false">Buy</string>
+</resources>

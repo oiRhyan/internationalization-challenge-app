@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstAPPDio</string>
+    <string name="description" translatable="false">   A PEGUEOUT - LARI é a bicicleta de esportes definitiva para ciclistas que buscam performance e estilo em cada pedalada. Projetada para oferecer uma experiência incomparável em trilhas e estradas, a LARI combina tecnologia avançada com um design arrojado.
+        \n \nCom a PEGUEOUT - LARI, você está pronto para conquistar qualquer desafio, seja nas estradas urbanas ou nas trilhas mais selvagens. Experimente a liberdade e a emoção do ciclismo esportivo com uma bicicleta que não só acompanha seu ritmo, mas o leva além.  </string>
+    <string name="title_description" translatable="false"> Descrição </string>
+    <string name="value" translatable="false">639,58R$</string>
+    <string name="adiquirir" translatable="false">Comprar</string>
+</resources>
